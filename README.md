@@ -1,3 +1,5 @@
+Demo: https://crypto-currency-news.vercel.app/
+
 ## Usage
 
 ### 1. Download project
