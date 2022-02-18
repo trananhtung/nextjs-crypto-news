@@ -1,29 +1,7 @@
-# **REACT TRAINING**
-# Table of Contents
-1. [Practice #1](#practice-1)
-# **Practice 1**
-## Content
-Create cryptocurrency news website apply next.js with feature below:
-- Multi-pages(news, market, watch list)
-- Multi-languages(en, vn)
-- Authentication(Login, logout, register)
-## Target
-- Next.js
-  - Multi-pages
-  - Slug
-  - API Routing
-  - Images assets
-  - Multi-languages
-  - Authentication
-  - Shared layout
-- Typescript
 ## Usage
 
 ### 1. Download project
 
-```js
-git clone git@gitlab.asoft-python.com:g-tungtran/nextjs-training.git
-```
 ### 2. Change to Practice #1 folder directory
 
 ```js
