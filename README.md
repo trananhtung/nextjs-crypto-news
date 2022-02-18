@@ -1,20 +1,11 @@
 Demo: https://crypto-currency-news.vercel.app/
-
+- Next.js example apply:
+  - API Routing
+  - Images assets
+  - Multi-languages
+  - Authentication
+  - Shared layout
 ## Usage
-
-### 1. Download project
-
-### 2. Change to Practice #1 folder directory
-
-```js
-cd cd nextjs-training
-cd crypto-currency-news
-```
-### 3. Install packages
-```js
-npm install
-```
-### 4. Scripts
 
 *You can use scripts below to work with this project*
 ```js
